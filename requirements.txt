@@ -113,7 +113,6 @@ pycurl==7.43.0.6
 pydantic==1.8.2
 pydot==1.4.2
 pyflakes==2.2.0
-pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 pypiwin32==223
 pyreadline==2.1
